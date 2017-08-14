@@ -2,7 +2,7 @@
 ## Inspirated by https://forthebadge.com/ and looks like it
 
 # Why?
-Because i like this badges. They're aesthetic, but thee are not many of them for the tech i use, so i decicded it would be good to have my own badges
+Because i like this badges. They're aesthetic, but there are not many of them for the tech i use, so i decicded it would be good to have my own badges
 
 # Currently there are
 ## Badges for languages
