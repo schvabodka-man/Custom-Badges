@@ -15,6 +15,9 @@ Because i like this badges. They're aesthetic, but there are not many of them fo
 ### Clojure - the best Lisp dialect out there
 <img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/Languages/Clojure/png/Clojure%20xxxhdpi.png" width="600" height="100">
 
+### Elm - Haskell for frontend
+<img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/Languages/Elm/png/Elm%20xxxhdpi.png" width="600" height="100">
+
 ## Badges for frameworks
 ### Spring framework
 <img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/Frameworks/png/Spring%20xxxhdpi.png" width="600" height="100">
