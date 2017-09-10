@@ -18,6 +18,9 @@ Because i like this badges. They're aesthetic, but there are not many of them fo
 ### Elm - Haskell for frontend
 <img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/Languages/Elm/png/Elm%20xxxhdpi.png" width="600" height="100">
 
+### Kotlin - bullshit meme language for braindeads who can't use Scala
+<img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/Languages/Kotlin/png/Kotlin%20xxxhdpi.png" width="600" height="100">
+
 ## Badges for frameworks
 ### Spring framework
 <img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/Frameworks/png/Spring%20xxxhdpi.png" width="600" height="100">
