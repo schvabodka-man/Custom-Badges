@@ -26,7 +26,11 @@ Because i like this badges. They're aesthetic, but there are not many of them fo
 <img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/Frameworks/png/Spring%20xxxhdpi.png" width="600" height="100">
 
 ## Build for
+
 ### Emacs
 <img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/BuildFor/Emacs/Emacs%20xxxhdpi.png" width="600" height="100">
+
+### Command Line
+<img src="https://raw.githubusercontent.com/schvabodka-man/Custom-Badges/master/BuildFor/CLI/CLI.png" width="600" height="100">
 
 As you can see this stuff is licensed under CC-BY-SA, so it's kinda open source and you can edit/distribute/use it where you want
